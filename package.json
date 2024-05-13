@@ -1,7 +1,7 @@
 {
   "name": "my-delevery",
   "version": "0.1.0",
-  "homepage": "git remote add origin https://github.com/Mostafa-Essam-Bakr/Delivery-App.git",
+  "homepage": "https://github.com/Mostafa-Essam-Bakr/Delivery-APPss.git",
   "private": true,
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.5.2",
@@ -27,7 +27,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-   "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
