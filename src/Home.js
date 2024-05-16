@@ -78,7 +78,7 @@ Contacts</li>
                     <FontAwesomeIcon icon={faBagShopping} className="bagshop" />    
                        
                               <Link to="/Ordersgin" >
-                              <button className="eatnow">Order Now
+                              <button className="eatnow">Order
 
                               </button>
                                                           
